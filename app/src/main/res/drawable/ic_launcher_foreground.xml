@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- QR Code icon pattern -->
+    <group
+        android:translateX="27"
+        android:translateY="27">
+
+        <!-- Top-left finder -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M0,0h18v18H0z" />
+        <path
+            android:fillColor="#1A56DB"
+            android:pathData="M2,2h14v14H2zM5,5h8v8H5z" />
+        <path
+            android:fillColor="#1A56DB"
+            android:pathData="M7,7h4v4H7z" />
+
+        <!-- Top-right finder -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M36,0h18v18H36z" />
+        <path
+            android:fillColor="#1A56DB"
+            android:pathData="M38,2h14v14H38zM41,5h8v8h-8z" />
+        <path
+            android:fillColor="#1A56DB"
+            android:pathData="M43,7h4v4h-4z" />
+
+        <!-- Bottom-left finder -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M0,36h18v18H0z" />
+        <path
+            android:fillColor="#1A56DB"
+            android:pathData="M2,38h14v14H2zM5,41h8v8H5z" />
+        <path
+            android:fillColor="#1A56DB"
+            android:pathData="M7,43h4v4H7z" />
+
+        <!-- Data modules -->
+        <path
+            android:fillColor="#1A56DB"
+            android:pathData="M22,4h4v4h-4zM28,4h4v4h-4zM22,10h4v4h-4z" />
+        <path
+            android:fillColor="#1A56DB"
+            android:pathData="M4,22h4v4H4zM10,22h4v4h-4zM4,28h4v4H4z" />
+        <path
+            android:fillColor="#1A56DB"
+            android:pathData="M22,22h8v4h-8zM22,28h4v8h-4zM30,26h4v4h-4z" />
+        <path
+            android:fillColor="#1A56DB"
+            android:pathData="M36,22h4v4h-4zM42,28h4v4h-4zM36,36h4v4h-4z" />
+        <path
+            android:fillColor="#1A56DB"
+            android:pathData="M28,36h4v4h-4zM34,42h4v4h-4zM42,36h8v4h-8z" />
+        <path
+            android:fillColor="#1A56DB"
+            android:pathData="M42,42h4v4h-4zM48,48h6v6h-6z" />
+    </group>
+</vector>
